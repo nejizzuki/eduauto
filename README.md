@@ -2,101 +2,101 @@
 
 <br>
 
-<a href="https://discord.com/users/1291064098741555273">
-  <img src="https://cdn.discordapp.com/avatars/1291064098741555273/6047c4e2e79833dd134727ea91c6469a.png?size=256" width="80" alt="nejizzuki"/>
-</a>
+<img src="https://cdn.discordapp.com/avatars/1291064098741555273/0d3552fcc47b8ab46ced01ee6a69e656.png" width="80" style="border-radius:50%" alt="nejizzuki">
 
-<br><br>
+# ✦ EduAuto
 
-### `EduAuto`
+<p>
+  <img src="https://img.shields.io/badge/status-ativo-7c3aed?style=flat-square&labelColor=0d0d1a" alt="status">
+  <img src="https://img.shields.io/badge/license-MIT-7c3aed?style=flat-square&labelColor=0d0d1a" alt="license">
+  <img src="https://img.shields.io/badge/runtime-browser-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d0d1a" alt="runtime">
+</p>
 
-<img src="https://img.shields.io/badge/status-ativo-7c3aed?style=flat-square&labelColor=0c0c0c" alt="status">
-<img src="https://img.shields.io/badge/feito_por-nejizzuki-0c0c0c?style=flat-square&labelColor=0c0c0c&color=7c3aed" alt="autor">
+**automação de atividades da Educação Profissional.**  
+roda direto no console do navegador — sem instalar nada.
 
-<br><br>
+</div>
+
+---
+
+## ✦ o que faz
+
+| feature | descrição |
+|---------|-----------|
+| 📚 **detecção de cursos** | lista automaticamente todos os cursos matriculados |
+| 📋 **varredura de atividades** | encontra atividades pendentes em cada curso |
+| 🤖 **resolução automática** | completa quizzes e atividades via API do Moodle |
+| 📊 **progresso em tempo real** | painel flutuante com status de cada operação |
+| ⏱️ **delay inteligente** | intervalos aleatórios entre ações pra simular uso humano |
+| 🛑 **controle total** | botão de parar a qualquer momento |
+
+---
+
+## 🚀 como usar
+
+**1.** Acesse a plataforma de [Educação Profissional](https://educacaoprofissional.educacao.sp.gov.br) e faça login
+
+**2.** Abra o console do navegador: `F12` → aba **Console**
+
+**3.** Cole o script e pressione `Enter`
+
+**4.** Clique em **Iniciar** no painel flutuante que aparece
 
 ```
-automatiza o que tem que automatizar.
-sem frescura.
+cursos detectados → atividades encontradas → resolvendo... → ✓ concluído
 ```
 
-<br>
+---
+
+## 🖥️ interface
+
+O script injeta um painel flutuante minimalista no canto da tela com:
+
+- **Contador de cursos** detectados
+- **Contador de atividades** encontradas
+- **Contador de operações** concluídas com sucesso
+- **Log em tempo real** de cada ação
+- **Barra de progresso** visual
+- Botões de **Iniciar** e **Parar**
+
+---
+
+## 🛠️ tecnologias
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js&theme=dark" />
 
-<br><br>
+</div>
+
+- **JavaScript** — Vanilla JS, roda direto no browser
+- **Moodle Web Services** — integração via API REST do Moodle
+- **DOM Injection** — UI injetada sem dependências externas
+- **Geist Mono** — tipografia do painel
 
 ---
 
-<br>
+## ⚠️ aviso
 
-## sobre
-
-<br>
-
-> script pro **Sala do Futuro / PreparaSP**.
-> fiz porque eu gosto de fazer essas coisas, simples assim.
-> roda no console do navegador, sem instalar nada.
-
-<br>
+Este script é para fins educacionais e de automação pessoal.  
+Use com responsabilidade.
 
 ---
 
-<br>
+## 📄 licença
 
-## uso
-
-<br>
-
-**1.** abre a plataforma no navegador
-
-**2.** `F12` → **Console** → cola o script → `Enter`
-
-**3.** pronto
-
-<br>
+Distribuído sob a licença [MIT](LICENSE).
 
 ---
 
-<br>
-
-## licença
-
-<br>
-
-MIT — pode usar, modificar, redistribuir, fazer o que quiser.
-só dá os créditos. não custa nada.
-
-<br>
-
----
-
-<br>
-
-## nota
-
-<br>
-
-> hi bro
-
-<br>
-
----
-
-<br>
+<div align="center">
 
 <a href="https://discord.gg/platformdestroyer">
-  <img src="https://img.shields.io/badge/platform%20destroyer-join-a855f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c&color=a855f7" />
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/1291064098741555273">
-  <img src="https://img.shields.io/badge/discord-nejizzuki-1a1a1a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c&color=1a1a1a" />
+  <img src="https://img.shields.io/badge/Platform%20Destroyer-join-a855f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c" />
 </a>
 
 <br><br>
 
-<sub>by <b>nejizzuki</b></sub>
-
-<br>
+<sub>with 💜 by <a href="https://github.com/nejizzuki">nejizzuki</a></sub>
 
 </div>
